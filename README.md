@@ -1,0 +1,2 @@
+# base.ts
+TypeScript Seed
